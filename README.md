@@ -5,9 +5,7 @@ Team 11 - Nathan Bertram, Dustin Hurtz, Charlotte Moreland, Levi Scully
 Instructors - Dr. David Feil-Seifer and Devrin Lee  
 Advisors - Dr. Sergiu Dascalu and Dr. Pengbo Chu  
 ## Overview Video
-[![Video presentation of our project]
-(https://youtu.be/XfFauo9zdyg/maxresdefault.jpg)]
-(https://youtu.be/XfFauo9zdyg)
+[![Video presentation of our project](https://youtu.be/XfFauo9zdyg/maxresdefault.jpg)](https://youtu.be/XfFauo9zdyg)
 ## Project Description
 MinerSim will be the prototype for an immersive virtual reality educational experience aimed to teach the scientific principles behind the froth flotation mineral separation process to mining engineering students in colleges and mining professionals in industry and, bring interest to mining engineering to highschool students around the Reno region.  
   
@@ -19,7 +17,6 @@ chemicals and minerals with users able to explore the tank environment. User int
 MinerSim will be built for the meta quest pro, an all in one VR headset using the Unity Game Engine. Packages will include meta quest integration, Ultimate XR, SQL, and various assets from the Unity Asset store. MinerSim should be fairly reliable, since portability is a large concern, we are focusing on keeping a smooth performance on the headset. However the largest consequence of MinerSim crashing is that someone may have to restart their session. Ideally it will be reliable enough to take much of the instructor's time troubleshooting. Security is mostly a concern when focused on the user data collection and database access. If we have them access a web server for the information then we will need to implement a secure login feature. If canvas integration is possible then we may be able to utilize the built in security of canvas.
 
 ## Project Poster
-![Project poster](https://drive.google.com/file/d/1gmqE3Q7wTHfg0p6Yn3Sr1jWGFII4EZSD/preview)
 ![Project poster](https://user-images.githubusercontent.com/4389513/233764380-b6181129-4839-432b-b467-f6468ba4cc1e.png)
 
 ## Project Related Resources
