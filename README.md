@@ -5,7 +5,6 @@ Team 11 - Nathan Bertram, Dustin Hurtz, Charlotte Moreland, Levi Scully
 Instructors - Dr. David Feil-Seifer and Devrin Lee  
 Advisors - Dr. Sergiu Dascalu and Dr. Pengbo Chu  
 ## Overview Video
-{% include youtube.html id="XfFauo9zdyg" %}
 [![Video presentation of our project](https://user-images.githubusercontent.com/4389513/233765641-258708f7-3d23-44d6-8864-15bd93d188f0.png)](https://www.youtube.com/watch?v=XfFauo9zdyg)
 
 ## Project Description
