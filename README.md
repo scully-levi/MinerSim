@@ -16,7 +16,7 @@ chemicals and minerals with users able to explore the tank environment. User int
 MinerSim will be built for the meta quest pro, an all in one VR headset using the Unity Game Engine. Packages will include meta quest integration, Ultimate XR, SQL, and various assets from the Unity Asset store. MinerSim should be fairly reliable, since portability is a large concern, we are focusing on keeping a smooth performance on the headset. However the largest consequence of MinerSim crashing is that someone may have to restart their session. Ideally it will be reliable enough to take much of the instructor's time troubleshooting. Security is mostly a concern when focused on the user data collection and database access. If we have them access a web server for the information then we will need to implement a secure login feature. If canvas integration is possible then we may be able to utilize the built in security of canvas.
 
 ## Project Poster
-![Project poster](https://drive.google.com/file/d/1f5qVwZz0wNT6N7GyuQBT61KNeigtdWO8/view?usp=share_link)
+![Project poster](https://drive.google.com/file/d/1gmqE3Q7wTHfg0p6Yn3Sr1jWGFII4EZSD/view?usp=share_link)
 
 ## Project Related Resources
 B. A. Wills and J. A. Finch, “Chapter 12,” in Wills' Mineral Processing Technology: An introduction to the practical aspects of ore treatment and mineral recovery, Amsterdam: Elsevier/BH, 2016, pp. 265–380.  
