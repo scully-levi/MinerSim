@@ -17,6 +17,7 @@ MinerSim will be built for the meta quest pro, an all in one VR headset using th
 
 ## Project Poster
 ![Project poster](https://drive.google.com/file/d/1gmqE3Q7wTHfg0p6Yn3Sr1jWGFII4EZSD/preview)
+![Project poster](https://user-images.githubusercontent.com/4389513/233764380-b6181129-4839-432b-b467-f6468ba4cc1e.png)
 
 ## Project Related Resources
 B. A. Wills and J. A. Finch, “Chapter 12,” in Wills' Mineral Processing Technology: An introduction to the practical aspects of ore treatment and mineral recovery, Amsterdam: Elsevier/BH, 2016, pp. 265–380.  
