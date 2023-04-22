@@ -5,7 +5,7 @@ Team 11 - Nathan Bertram, Dustin Hurtz, Charlotte Moreland, Levi Scully
 Instructors - Dr. David Feil-Seifer and Devrin Lee  
 Advisors - Dr. Sergiu Dascalu and Dr. Pengbo Chu  
 ## Overview Video
-[![Video presentation of our project](https://youtu.be/XfFauo9zdyg/maxresdefault.jpg)](https://youtu.be/XfFauo9zdyg)
+[![Video presentation of our project](https://youtu.be/XfFauo9zdyg/0.jpg)](https://youtu.be/XfFauo9zdyg)
 ## Project Description
 MinerSim will be the prototype for an immersive virtual reality educational experience aimed to teach the scientific principles behind the froth flotation mineral separation process to mining engineering students in colleges and mining professionals in industry and, bring interest to mining engineering to highschool students around the Reno region.  
   
